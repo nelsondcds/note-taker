@@ -6,6 +6,9 @@ const router = require('express').Router();
 
 router.get('/notes', (req, res) => {
     let results = notes;
+    if (req.query) {
+        console.log(results);
+    }
     res.json(results);
 });
 
