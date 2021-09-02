@@ -12,4 +12,4 @@ https://fathomless-dusk-58895.herokuapp.com/
 
 A screenshot of my submission is provided below:
 
-![Note Taker](public/assets/imgs/screenshot.jpg)
+![Note Taker](public/assets/img/screenshot.jpg)
